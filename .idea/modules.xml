@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BookDemo.iml" filepath="$PROJECT_DIR$/BookDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/launchomode/launchomode.iml" filepath="$PROJECT_DIR$/launchomode/launchomode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/messengerclient/messengerclient.iml" filepath="$PROJECT_DIR$/messengerclient/messengerclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/messengerserve/messengerserve.iml" filepath="$PROJECT_DIR$/messengerserve/messengerserve.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tinkerdemo/tinkerdemo.iml" filepath="$PROJECT_DIR$/tinkerdemo/tinkerdemo.iml" />
+    </modules>
+  </component>
+</project>
