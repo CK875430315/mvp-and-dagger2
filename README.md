@@ -1,1 +1,1 @@
-# BookDemo 简单实用的的mvp+retrofit+dagger2
+# 简单实用的mvp+retrofit+dagger2框架<br>
