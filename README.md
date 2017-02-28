@@ -1,5 +1,5 @@
 # 简单实用的mvp+retrofit+dagger2框架<br>   
- 直接上代码，用到的依赖：<br>
+  用到的依赖：<br>
     compile fileTree(include: ['*.jar'], dir: 'libs')<br>
     androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
         exclude group: 'com.android.support', module: 'support-annotations'
@@ -24,5 +24,5 @@
     compile 'com.squareup.picasso:picasso:2.5.2'<br>
     //注解<br>
     compile 'com.jakewharton:butterknife:8.4.0'<br>
-    apt 'com.jakewharton:butterknife-compiler:8.4.0'<br>
-    ####项目结构
+    apt 'com.jakewharton:butterknife-compiler:8.4.0'<br>
+###项目结构<br>
